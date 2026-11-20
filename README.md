@@ -1,1 +1,0 @@
-# kuis-tebak-komponen-komputer
